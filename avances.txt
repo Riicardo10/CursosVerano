@@ -1,0 +1,3 @@
+tabs					dinamicas
+CRUD	con bd 		areas
+CRUD	con bd			carreras
